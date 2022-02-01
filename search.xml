@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>math</title>
+      <link href="/2022/02/01/math/"/>
+      <url>/2022/02/01/math/</url>
+      
+        <content type="html"><![CDATA[<p>$$ \sqrt{2} $$</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/02/01/hello-world/"/>
+      <url>/2022/02/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试数学公式</title>
+      <link href="/2022/01/28/%E6%B5%8B%E8%AF%95%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/"/>
+      <url>/2022/01/28/%E6%B5%8B%E8%AF%95%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<p>$\sqrt[3]{5}$</p><p>$\frac{223}{22}$</p><p>$\overrightarrow{65}$</p><p>$\overleftarrow{444}$</p><p>$$<br> \sin^2(\theta) + \cos^2(\theta) = 1<br> $$<br> ​<br> $$<br> \sum_{n=1}^\infty k<br> $$<br> ​<br> $$<br> \int_a^bf(x),dx<br> $$<br> ​<br> $$<br> \lim\limits_{x\to\infty}\exp(-x) = 0<br> $$</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> math </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> math </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>创建ssh公钥</title>
+      <link href="/2022/01/28/%E5%88%9B%E5%BB%BAssh%E5%85%AC%E9%92%A5/"/>
+      <url>/2022/01/28/%E5%88%9B%E5%BB%BAssh%E5%85%AC%E9%92%A5/</url>
+      
+        <content type="html"><![CDATA[<p><code>git config --global user.name &quot;username&quot;</code></p><p><code>git config --global user.email &quot;useremail&quot;</code></p><p><code>ssh-keygen -t rsa -C &quot;useremail&quot;</code></p><p>测试是否连接成功：<br><code>ssh -T git@github.com</code></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> github </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ssh公钥 </tag>
+            
+            <tag> github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Redmi10X MIUI13刷入Magisk</title>
+      <link href="/2022/01/26/Redmi10X-MIUI13%E5%88%B7%E5%85%A5Magisk/"/>
+      <url>/2022/01/26/Redmi10X-MIUI13%E5%88%B7%E5%85%A5Magisk/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><ul><li>手机解bl锁<ul><li>软件官网：<a href="https://www.miui.com/unlock/index.html">解锁工具</a></li></ul></li><li>MIUI13开发版准备<ul><li>xiaomirom网站：<a href="https://xiaomirom.com/">XiaomiRom.com</a></li><li>进入网站选择对应的手机卡刷包</li><li>我选择的是MIUI13开发内测版22.1.19，Android11系统</li></ul></li><li>rec准备<ul><li>这里给大家准备了自动解密的<a href="https://mineyu-my.sharepoint.com/:f:/g/personal/link_mineyu_onmicrosoft_com/Eo2WabefuwJPmsFQzCUukjAB4XxRP97X4cJa0kSbJYMTYw?e=S5SS0t">残芯rec</a></li></ul></li><li>Magisk准备<ul><li>Magisk官方<ul><li><a href="https://github.com/topjohnwu/Magisk/releases/tag/v24.0">V24.0</a></li></ul></li><li>Magisk alpha版<ul><li><a href="https://github.com/vvb2060/Magisk">github页面</a></li><li><a href="https://mineyu-my.sharepoint.com/:u:/g/personal/link_mineyu_onmicrosoft_com/EX7rRpw5Ey9HsLs2wGLwQ44BX8is2duh_Bawl0mMhW3Qpw?e=47kct7">app</a></li></ul></li></ul></li><li>MiFlash：<a href="https://miuiver.com/miflash/">MiFlash</a></li></ul><h2 id="刷入流程"><a href="#刷入流程" class="headerlink" title="刷入流程"></a>刷入流程</h2><ul><li>首先解压MiFlash压缩包，找到 <em><strong>XiaoMiFlash.exe</strong></em> ，双击启动，第一次启动会弹出一个界面，要安装一些驱动，点击确定安装，安装完成之后就可以把整个文件夹删了，下面的步骤不需要了</li><li>以管理员身份运行 <em><strong>残芯专用TWRPRecovery刷入工具Win版V2.1.exe</strong></em></li><li>弹出窗口点击是</li><li>点击 <em><strong>选择镜像文件</strong></em> </li><li>选择 <em><strong>红米10X5G-11.0-twrp3.5.2_11-recovery-自动解密-21.11.11-专用工具刷入.img</strong></em></li><li>点击 <em><strong>开机或TWRP重启到Fastboot</strong></em></li><li>进入fastboot模式后，点击 <em><strong>开始刷入recovery镜像</strong></em></li><li>刷入完成后会出现finish选项，后面跟着时间，一般是4~5秒钟就好了</li><li>点击 <em><strong>方法一</strong></em> 进入recovery</li><li>如果设置锁屏密码的话会让你输入密码</li><li>点击 <em><strong>清除</strong></em></li><li>点击 <em><strong>格式化data分区</strong></em> 输入 <em><strong>yes</strong></em></li><li>完成之后返回到初始界面</li><li>将卡刷包和magisk包传到设备上</li><li>点击 <em><strong>安装</strong></em> </li><li>找到卡刷包，滑动滑块刷入，刷入完成之后，返回，找到magisk包，同样操作，完成之后，重启</li><li>刷入完成，可以尽情的使用了</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Magisk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Root </tag>
+            
+            <tag> Magisk </tag>
+            
+            <tag> MIUI13 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test</title>
+      <link href="/2022/01/25/test/"/>
+      <url>/2022/01/25/test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><h2 id="Chapter-1"><a href="#Chapter-1" class="headerlink" title="Chapter 1"></a>Chapter 1</h2><p>hhhhhhhhhhhhhhhh</p><h2 id="Chapter-2"><a href="#Chapter-2" class="headerlink" title="Chapter 2"></a>Chapter 2</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HelloWorld </tag>
+            
+            <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
