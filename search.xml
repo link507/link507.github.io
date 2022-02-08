@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>机构自由度及阻力最小定律-机械原理</title>
-      <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E8%87%AA%E7%94%B1%E5%BA%A6%E5%8F%8A%E9%98%BB%E5%8A%9B%E6%9C%80%E5%B0%8F%E5%AE%9A%E5%BE%8B-%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/"/>
-      <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E8%87%AA%E7%94%B1%E5%BA%A6%E5%8F%8A%E9%98%BB%E5%8A%9B%E6%9C%80%E5%B0%8F%E5%AE%9A%E5%BE%8B-%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/</url>
+      <title>机构自由度及阻力最小定律-机械</title>
+      <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E8%87%AA%E7%94%B1%E5%BA%A6%E5%8F%8A%E9%98%BB%E5%8A%9B%E6%9C%80%E5%B0%8F%E5%AE%9A%E5%BE%8B-%E6%9C%BA%E6%A2%B0/"/>
+      <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E8%87%AA%E7%94%B1%E5%BA%A6%E5%8F%8A%E9%98%BB%E5%8A%9B%E6%9C%80%E5%B0%8F%E5%AE%9A%E5%BE%8B-%E6%9C%BA%E6%A2%B0/</url>
       
         <content type="html"><![CDATA[<h2 id="机构自由度">机构自由度</h2><ul><li>机构自由度 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span></span></span></span> - 机构具有确定运动时所必须给定的独立运动参数的数目</li><li>机构具有确定运动的条件：机构的原动件数目 = 机构的自由度数目 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span></span></span></span></li></ul><h2 id="阻力最小定律">阻力最小定律</h2><ul><li>阻力最小定律 - 优先沿阻力最小的方向运动</li></ul><hr><p>原动件数 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>&lt;</mo></mrow><annotation encoding="application/x-tex">&lt;</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">&lt;</span></span></span></span> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span></span></span></span> 的机构 - 欠驱动机构</p><p>原动件数 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>&gt;</mo></mrow><annotation encoding="application/x-tex">&gt;</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">&gt;</span></span></span></span> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span></span></span></span> 的机构 - 冗余驱动机构</p>]]></content>
       
       
       <categories>
           
-          <category> 机械原理 </category>
+          <category> 机械 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 机械原理 </tag>
+            <tag> 机械 </tag>
             
             <tag> 机构自由度 </tag>
             
@@ -33,23 +33,23 @@
     
     
     <entry>
-      <title>机构运动简图的绘制-机械原理</title>
-      <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E8%BF%90%E5%8A%A8%E7%AE%80%E5%9B%BE%E7%9A%84%E7%BB%98%E5%88%B6-%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/"/>
-      <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E8%BF%90%E5%8A%A8%E7%AE%80%E5%9B%BE%E7%9A%84%E7%BB%98%E5%88%B6-%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/</url>
+      <title>机构运动简图的绘制-机械</title>
+      <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E8%BF%90%E5%8A%A8%E7%AE%80%E5%9B%BE%E7%9A%84%E7%BB%98%E5%88%B6-%E6%9C%BA%E6%A2%B0/"/>
+      <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E8%BF%90%E5%8A%A8%E7%AE%80%E5%9B%BE%E7%9A%84%E7%BB%98%E5%88%B6-%E6%9C%BA%E6%A2%B0/</url>
       
         <content type="html"><![CDATA[<h1>机构运动简图的绘制</h1><ul><li>分析机构组成<ul><li>搞清楚机构的构造及运动情况</li><li>查明各构件和运动副的类别及位置</li></ul></li><li>选定视图平面</li><li>取比例尺作图<ul><li>先根据机械机构的运动尺寸，确定出各运动副的位置</li><li>然后再画出各运动副符号及常用机构运动简图符号</li><li>最后用简单线条或几何图形连接即成</li></ul></li><li>完成必要标注</li></ul>]]></content>
       
       
       <categories>
           
-          <category> 机械原理 </category>
+          <category> 机械 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 机械原理 </tag>
+            <tag> 机械 </tag>
             
             <tag> 运动简图 </tag>
             
@@ -60,23 +60,23 @@
     
     
     <entry>
-      <title>机构的分类-机械原理</title>
-      <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E7%9A%84%E5%88%86%E7%B1%BB-%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/"/>
-      <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E7%9A%84%E5%88%86%E7%B1%BB-%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/</url>
+      <title>机构的分类-机械</title>
+      <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E7%9A%84%E5%88%86%E7%B1%BB-%E6%9C%BA%E6%A2%B0/"/>
+      <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E7%9A%84%E5%88%86%E7%B1%BB-%E6%9C%BA%E6%A2%B0/</url>
       
         <content type="html"><![CDATA[<h1>机构的分类</h1><ul><li>运动副的组成情况：低副机构、高副机构</li><li>机构的运动情况：平面机构、空间机构</li><li>机构的构件情况和机构的工作原理：连杆机构、凸轮机构等</li><li>组成机构的构件性质：刚性机构、柔性机构等</li></ul>]]></content>
       
       
       <categories>
           
-          <category> 机械原理 </category>
+          <category> 机械 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 机械原理 </tag>
+            <tag> 机械 </tag>
             
             <tag> 机构 </tag>
             
@@ -105,9 +105,9 @@
       
         <tags>
             
-            <tag> 机械原理 </tag>
-            
             <tag> 机构 </tag>
+            
+            <tag> 机械原理 </tag>
             
             <tag> 运动链 </tag>
             
@@ -118,17 +118,23 @@
     
     
     <entry>
-      <title>机构的组成-机械原理</title>
-      <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E7%9A%84%E7%BB%84%E6%88%90-%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/"/>
-      <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E7%9A%84%E7%BB%84%E6%88%90-%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/</url>
+      <title>机构的组成-机械</title>
+      <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E7%9A%84%E7%BB%84%E6%88%90-%E6%9C%BA%E6%A2%B0/"/>
+      <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E7%9A%84%E7%BB%84%E6%88%90-%E6%9C%BA%E6%A2%B0/</url>
       
         <content type="html"><![CDATA[<h1>机构</h1><p>机构的组成要素</p><ul><li>构件</li><li>运动副</li></ul><p>零件 - 独立制造单元体</p><p>构件 - 机器中的一个独立运动单元体</p><p>构件可能是一个零件，但往往是由若干个零件刚性的联接在一起的独立运动的整体</p><p>机器运动观点：任何机器都是由若干个构件组合而成的</p><p>机器构造观点：任何机器都是由许多零件组合而成</p><hr><h1>运动副</h1><ul><li>运动副 - 两构件直接接触并能产生相对运动的活动联接</li><li>运动副元素 - 两构件参与接触而构成运动副的表面</li><li>运动副的自由度 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span></span></span></span></li><li>运动副的约束度 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>s</mi></mrow><annotation encoding="application/x-tex">s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">s</span></span></span></span></li><li><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span></span></span></span> = 6 - <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>s</mi></mrow><annotation encoding="application/x-tex">s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">s</span></span></span></span></li></ul><p>类型：</p><ul><li>按约束度分：Ⅰ级副，Ⅱ级副，Ⅲ级副，Ⅳ级副，Ⅴ级副</li><li>按接触形式分：<ul><li>高副 - 点、线接触</li><li>地副 - 面接触</li></ul></li><li>按封闭形式分：几何封闭，力封闭</li><li>按相对运动形式分：<ul><li>转动副或回转副</li><li>移动副</li><li>球面副</li><li>球销副</li><li>螺旋副</li></ul></li></ul>]]></content>
       
       
+      <categories>
+          
+          <category> 机械 </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> 机械原理 </tag>
+            <tag> 机械 </tag>
             
             <tag> 机构 </tag>
             
