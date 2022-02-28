@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Windows启用关机时说明理由</title>
+      <link href="/2022/02/28/Windows%E5%90%AF%E7%94%A8%E5%85%B3%E6%9C%BA%E6%97%B6%E8%AF%B4%E6%98%8E%E7%90%86%E7%94%B1/"/>
+      <url>/2022/02/28/Windows%E5%90%AF%E7%94%A8%E5%85%B3%E6%9C%BA%E6%97%B6%E8%AF%B4%E6%98%8E%E7%90%86%E7%94%B1/</url>
+      
+        <content type="html"><![CDATA[<h1>Windows启用关机时说明理由</h1><ul><li>打开注册表，转到以下键：<br><em><strong>HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Reliability</strong></em>【若没有则创建】</li><li>在此处创建两个 <em><strong>32位</strong></em> 的 <em><strong>DWORD</strong></em> 值，名称分别为 <em><strong>ShutdownReasonOn</strong></em> 和 <em><strong>ShutdownReasonUI</strong></em> 并将它们的值都设置为 <em><strong>1</strong></em></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+            <tag> 注册表 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>机构自由度及阻力最小定律-机械</title>
       <link href="/2022/02/03/%E6%9C%BA%E6%9E%84%E8%87%AA%E7%94%B1%E5%BA%A6%E5%8F%8A%E9%98%BB%E5%8A%9B%E6%9C%80%E5%B0%8F%E5%AE%9A%E5%BE%8B-%E6%9C%BA%E6%A2%B0/"/>
       <url>/2022/02/03/%E6%9C%BA%E6%9E%84%E8%87%AA%E7%94%B1%E5%BA%A6%E5%8F%8A%E9%98%BB%E5%8A%9B%E6%9C%80%E5%B0%8F%E5%AE%9A%E5%BE%8B-%E6%9C%BA%E6%A2%B0/</url>
